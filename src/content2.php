@@ -16,10 +16,10 @@ if (!$_GET['login']){
 <html>
 <body>
 <?php
-$name = $_GET['username'];
+$_SESSION['name'] = $_GET['username'];
 echo "<h2>Content2.php</h2>";
 echo "Click " . "<a href = \"login.php?logout=true\">here</a>" . " to logout.\n";
-echo "Click " . "<a href = \"content1.php?login=true&username=$name\">here</a>" . " to another page content1.php.\n";
+echo "Click " . "<a href = \"content1.php?login=true&username=$_SESSION[name]\">here</a>" . " to another page content1.php.\n";
 
 ?>
 </body>
