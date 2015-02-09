@@ -1,0 +1,41 @@
+
+Start:Sun, 8 Feb 2015 21:00:34 -0700
+End: Sun, 8 Feb 2015 22:21:34 -0700 
+Tasks: During this time I finished final version, encountered session problem not communicating across pages and finally added session folder in public-html to fix
+
+Start: Sun, 8 Feb 2015 20:49:46 -0700
+End: Sun, 8 Feb 2015 21:19:46 -0700 
+Tasks: During this time I modified content2.php
+
+Start: Sun, 8 Feb 2015 19:05:20 -0700
+End: Sun, 8 Feb 2015 20:05:20 -0700 
+Tasks: During this time I worked on link between content1.php and content2.php, and made a variable to store the correct way when reach a page
+
+Start: Sun, 8 Feb 2015 14:38:10 -0700
+End: Sun, 8 Feb 2015 15:38:10 -0700 
+Tasks: During this time I worked on session, finished the link from login.php to/from content1.php,
+
+Start: Sun, 8 Feb 2015 11:48:59 -0700
+End: Sun, 8 Feb 2015 12:48:59 -0700 
+Tasks: During this time I worked on the loops and finished multtable.php 
+
+Start: Sun, 8 Feb 2015 9:25:12 -0700
+End: Sun, 8 Feb 2015 10:15:12 -0700 
+Tasks: During this time I finished loopback.php
+
+Start: Sat, 7 Feb 2015 21:48:10 -0700
+End: Sat, 7 Feb 2015 22:28:10 -0700 
+Tasks: During this time I fixed all error checking in multtable.php
+
+Start:Thu, 5 Feb 2015 17:09:01 -0700 
+End: Thu, 5 Feb 2015 17:59:01 -0700 
+Tasks: During this time I checked conditions for multtable.php
+
+Start: Wed, 4 Feb 2015 22:54:35 -0700
+End: Wed, 4 Feb 2015 23:14:35 -0700 
+Tasks: During this time I added two ifs in loopback.php
+
+Start:Wed, 4 Feb 2015 05:27:20 -0700 
+End: Wed, 4 Feb 2015 05:47:20 -0700 
+Tasks: During this time I did login.php html part
+
